@@ -1,0 +1,8 @@
+/* app css stylesheet */
+
+.md-button ng-md-icon{
+  margin-top:-8px;
+}
+.main-container{
+  height: 100%;
+}
